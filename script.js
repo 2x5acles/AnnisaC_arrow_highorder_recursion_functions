@@ -20,3 +20,24 @@ const square = number => {
 const square = number => number * number;
 
 //function 3
+function isEVen(number) {
+    if (number % 2 === 0) {
+        return true;
+    } else { 
+        return false; 
+
+    }
+}
+
+const isEven = (number) => {
+    if (number % 2 ==== 0) {
+        return true; 
+    } else {
+        return false;
+    }
+
+    };
+
+    const isEVen = number => number %2 === 0;
+    
+
